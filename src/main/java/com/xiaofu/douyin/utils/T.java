@@ -10,5 +10,7 @@ public class T {
         System.out.println("3456yujc");
         System.out.println("abc");
         System.out.println("45678");
+        System.out.println("abc");
+        System.out.println("45678");
     }
 }
