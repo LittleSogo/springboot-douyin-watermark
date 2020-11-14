@@ -7,8 +7,8 @@ public class T {
         System.out.println("abc");
         System.out.println("abc");
         System.out.println("abc");
+        System.out.println("3456yujc");
         System.out.println("abc");
-        System.out.println("abc");
-        System.out.println("好好好好好好好好好好好好好好好好好好好好好好好好好好好好");
+        System.out.println("45678");
     }
 }
