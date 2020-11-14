@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fa13620-b050-4bb9-b7c1-78e7224c8928" name="Default Changelist" comment="第5次提交">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_13_17_09_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_13_17_09_[Default_Changelist]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_11_13_17_09__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/SpringbootDouyinWatermarkApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/controller/DYController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ExtraBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$AuthorBean$AvatarLargerBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$AuthorBean$AvatarMediumBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$AuthorBean$AvatarThumbBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$AuthorBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$ChaListBean$CoverItemBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$ChaListBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$MusicBean$CoverHdBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$MusicBean$CoverLargeBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$MusicBean$CoverMediumBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$MusicBean$CoverThumbBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$MusicBean$PlayUrlBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$MusicBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$RiskInfosBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$ShareInfoBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$StatisticsBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$TextExtraBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$VideoBean$CoverBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$VideoBean$DynamicCoverBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$VideoBean$OriginCoverBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$VideoBean$PlayAddrBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean$VideoBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult$ItemListBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/DYResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/HSResult$DataBean$ItemInfoBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/HSResult$DataBean$UserInfoBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/HSResult$DataBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/HSResult.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/po/ResultDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/service/VideoParseUrlService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/service/impl/VideoParseUrlServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/xiaofu/douyin/utils/CommonUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/push.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/bg1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/bg2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/bg3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/douyin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/huoshan.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/kuaishou.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/pipixia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/qq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/quanmin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/shuoming.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/webicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/weishi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/wx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/img/公号.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/hm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/push.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/tool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/vue.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springboot-douyin-watermark-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/springboot-douyin-watermark-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaofu/douyin/utils/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaofu/douyin/utils/T.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jxHT4qcnl0BI7bZl6lJW1vWxHJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringbootDouyinWatermarkApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-douyin-watermark" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaofu.douyin.SpringbootDouyinWatermarkApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fa13620-b050-4bb9-b7c1-78e7224c8928" name="Default Changelist" comment="" />
+      <created>1604738829699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604738829699</updated>
+      <workItem from="1604738830742" duration="2265000" />
+      <workItem from="1604997930163" duration="1605000" />
+      <workItem from="1605254495675" duration="1305000" />
+      <workItem from="1605258442149" duration="808000" />
+      <workItem from="1605356084402" duration="349000" />
+      <workItem from="1605356772705" duration="1477000" />
+      <workItem from="1605358282481" duration="1680000" />
+      <workItem from="1605360473998" duration="170000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1605358424113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605358424113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第二次提交">
+      <created>1605358481982</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605358481982</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第三次提交">
+      <created>1605358536541</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605358536541</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四次提交">
+      <created>1605358952721</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605358952721</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第5次提交">
+      <created>1605359028405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605359028405</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="第二次提交" />
+    <MESSAGE value="第三次提交" />
+    <MESSAGE value="第四次提交" />
+    <MESSAGE value="第5次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第5次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1166" height="538" key="DiffContextDialog" timestamp="1605358904201">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="100" y="100" width="1166" height="538" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1605358904201" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1605359952844">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1605359952844" />
+    <state x="494" y="287" key="Github.CreateGistDialog" timestamp="1605358201816">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="494" y="287" key="Github.CreateGistDialog/0.0.1366.738@0.0.1366.738" timestamp="1605358201816" />
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1605255801622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605255801622" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1605255801621">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605255801621" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1605255801621">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605255801621" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1605255801621">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605255801621" />
+    <state width="1323" height="176" key="GridCell.Tab.1.bottom" timestamp="1605255801622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605255801622" />
+    <state width="1323" height="176" key="GridCell.Tab.1.center" timestamp="1605255801622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1605255801622" />
+    <state width="1323" height="176" key="GridCell.Tab.1.left" timestamp="1605255801622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1605255801622" />
+    <state width="1323" height="176" key="GridCell.Tab.1.right" timestamp="1605255801622">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="176" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1605255801622" />
+    <state width="1323" height="225" key="GridCell.Tab.2.bottom" timestamp="1604741099629">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1604741099629" />
+    <state width="1323" height="225" key="GridCell.Tab.2.center" timestamp="1604741099629">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1604741099629" />
+    <state width="1323" height="225" key="GridCell.Tab.2.left" timestamp="1604741099628">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1604741099628" />
+    <state width="1323" height="225" key="GridCell.Tab.2.right" timestamp="1604741099629">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="225" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1604741099629" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1605358025945">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1605358025945" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1605359037838">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1605359037838" />
+    <state x="487" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605358566293">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="487" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1605358566293" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1605356387093">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1605356387093" />
+  </component>
+</project>
